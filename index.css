@@ -300,6 +300,8 @@ textarea {
     body {
         margin-top: 0px;
         overflow-x: hidden;
+        height: 100%;
+        width: 100%;
     }
     .menu {
         display: none;
@@ -308,7 +310,7 @@ textarea {
         margin-top: -56.5px;
         margin-left: -8px;
         background-color: #FBF3E4;
-        width: 95.9%;
+        width: 99.9%;
         padding-top: 10px;
         position: fixed;
     }
